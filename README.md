@@ -1,2 +1,2 @@
 # neevishcode-portfolio.io
-Repo for Portfolio
+- Implemented My Portfolio using JavaScript, HTML, CSS and Bootstrap.
